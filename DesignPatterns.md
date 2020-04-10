@@ -42,7 +42,33 @@ page 10 (PDF 21)
 ![格式化处理类](格式化处理类.png)
 
 ### 策略模式
-
+![策略模式](2.3.3策略模式.png)
 
 ## 修饰用户界面
+![修饰用户界面](修饰用户界面.png)
+
+### 透明围栏
+![透明围栏](透明围栏.png)
+
+### MonoGlyph
+![MonoGlyph](MonoGlyph.png)
+
+### Decorator模式
+![Decorator模式](Decorator模式.png)
+
+## 支持多种视感标准
+![支持多种视感标准](支持多种视感标准.png)
+
+### 对象创建的抽象
+![对象创建的抽象](对象创建的抽象.png)
+
+### 工厂类和产品类
+![工厂类和产品类](工厂类和产品类.png)
+
+### Abstract Factory模式
+![AbstractFactory模式](AbstractFactory模式.png)
+
+## 支持多种窗口系统
+
+### 是否可以使用AbstractFactory模式
 
