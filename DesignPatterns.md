@@ -69,6 +69,20 @@ page 10 (PDF 21)
 ![AbstractFactory模式](AbstractFactory模式.png)
 
 ## 支持多种窗口系统
+![支持多种窗口系统](支持多种窗口系统.png)
 
 ### 是否可以使用AbstractFactory模式
+![是否可以使用AbstractFactory模式](是否可以使用AbstractFactory模式.png)
+
+### 封装实现依赖关系
+![封装实现依赖关系](封装实现依赖关系.png)
+
+### Window和WindowImp
+![Window和WindowImp](Window和WindowImp.png)
+
+### Bridge模式
+![Bridge模式](Bridge模式.png)
+
+## 用户操作
+
 
